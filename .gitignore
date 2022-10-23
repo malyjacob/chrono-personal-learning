@@ -1,7 +1,4 @@
-.idea
-
 .vscode
-
-debug
-
-build
+.idea
+bin
+lib

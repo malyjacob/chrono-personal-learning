@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libLodePng.so -o ../../lib/libLodePng.so CMakeFiles/LodePng.dir/lodepng.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test.dir/src/ptest.cpp.o -o ../bin/test  -Wl,-rpath,/home/maly/document/chrono-personal-learning/lib ../lib/libLodePng.so 

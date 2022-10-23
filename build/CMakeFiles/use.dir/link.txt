@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/use.dir/src/use_pkg.cpp.o -o ../bin/use 

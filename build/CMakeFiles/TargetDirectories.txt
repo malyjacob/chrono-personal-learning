@@ -1,0 +1,9 @@
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/hello.dir
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/use.dir
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/chronos.dir
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/test.dir
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/edit_cache.dir
+/home/maly/document/chrono-personal-learning/build/CMakeFiles/rebuild_cache.dir
+/home/maly/document/chrono-personal-learning/build/module1/CMakeFiles/LodePng.dir
+/home/maly/document/chrono-personal-learning/build/module1/CMakeFiles/edit_cache.dir
+/home/maly/document/chrono-personal-learning/build/module1/CMakeFiles/rebuild_cache.dir
