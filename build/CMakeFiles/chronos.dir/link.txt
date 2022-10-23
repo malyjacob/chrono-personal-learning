@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/chronos.dir/src/chrono_test.cpp.o -o ../bin/chronos 
